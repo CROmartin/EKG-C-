@@ -1,0 +1,3 @@
+g++ main.cpp -o main.exe  -I C:\Python310\include -I c:\python310\lib\site-packages\numpy\core\include -L c:\python310\libs -lpython310
+
+cd /d D:\C++\EKG
